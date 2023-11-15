@@ -1,0 +1,17 @@
+C:\Users\Geus_WEB\Desktop\freyesft_dev\wompi\Wompi.Data\bin\Debug\net7.0\Wompi.Data.deps.json
+C:\Users\Geus_WEB\Desktop\freyesft_dev\wompi\Wompi.Data\bin\Debug\net7.0\Wompi.Data.runtimeconfig.json
+C:\Users\Geus_WEB\Desktop\freyesft_dev\wompi\Wompi.Data\bin\Debug\net7.0\Wompi.Data.dll
+C:\Users\Geus_WEB\Desktop\freyesft_dev\wompi\Wompi.Data\bin\Debug\net7.0\Wompi.Data.pdb
+C:\Users\Geus_WEB\Desktop\freyesft_dev\wompi\Wompi.Data\bin\Debug\net7.0\Wompi.Core.dll
+C:\Users\Geus_WEB\Desktop\freyesft_dev\wompi\Wompi.Data\bin\Debug\net7.0\Wompi.Core.pdb
+C:\Users\Geus_WEB\Desktop\freyesft_dev\wompi\Wompi.Data\obj\Debug\net7.0\Wompi.Data.csproj.AssemblyReference.cache
+C:\Users\Geus_WEB\Desktop\freyesft_dev\wompi\Wompi.Data\obj\Debug\net7.0\Wompi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geus_WEB\Desktop\freyesft_dev\wompi\Wompi.Data\obj\Debug\net7.0\Wompi.Data.AssemblyInfoInputs.cache
+C:\Users\Geus_WEB\Desktop\freyesft_dev\wompi\Wompi.Data\obj\Debug\net7.0\Wompi.Data.AssemblyInfo.cs
+C:\Users\Geus_WEB\Desktop\freyesft_dev\wompi\Wompi.Data\obj\Debug\net7.0\Wompi.Data.csproj.CoreCompileInputs.cache
+C:\Users\Geus_WEB\Desktop\freyesft_dev\wompi\Wompi.Data\obj\Debug\net7.0\Wompi.Data.csproj.CopyComplete
+C:\Users\Geus_WEB\Desktop\freyesft_dev\wompi\Wompi.Data\obj\Debug\net7.0\Wompi.Data.dll
+C:\Users\Geus_WEB\Desktop\freyesft_dev\wompi\Wompi.Data\obj\Debug\net7.0\refint\Wompi.Data.dll
+C:\Users\Geus_WEB\Desktop\freyesft_dev\wompi\Wompi.Data\obj\Debug\net7.0\Wompi.Data.pdb
+C:\Users\Geus_WEB\Desktop\freyesft_dev\wompi\Wompi.Data\obj\Debug\net7.0\Wompi.Data.genruntimeconfig.cache
+C:\Users\Geus_WEB\Desktop\freyesft_dev\wompi\Wompi.Data\obj\Debug\net7.0\ref\Wompi.Data.dll
